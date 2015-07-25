@@ -1,0 +1,15 @@
+body {
+	font-family: Arial;
+}	
+
+p {
+	font-family: Tahoma;
+}
+
+html {
+    max-width: 65%;
+}
+
+div {
+	float: right;
+}
